@@ -1,0 +1,9 @@
+--Basically if you lag when executing scripts this Optimization script will help with that
+--Still in beta so may greatly increase or slightly or maybe even decrease your experience
+--has to be executed at the same time as the other script your trying to
+--Any questions? join my disguised server discord.gg/burger
+--DONT MENTION ANYTHING AOUT THE SCRIPT, just message me in my DMS Josh.#1474
+--made my Josh.#1474
+--Co dev XactlyBlue#9029 you can message him about it too
+
+loadstring(game:HttpGet(“https://pastebin.com/raw/enmgp76V”))()
